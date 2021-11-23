@@ -10,9 +10,9 @@ library(readxl)
 ```
 
 ```{r}
-read_excel("DIME RAW DATA (F2020).xlsx")
-raw_data <- DIME_RAW_DATA_F2020_
+raw_data<- read_excel("C:/Users/abdullah cihad/OneDrive/Masaüstü/DIME_RAW_DATA.xlsx")
 raw_data
+
 ```
 
 ```{r}
